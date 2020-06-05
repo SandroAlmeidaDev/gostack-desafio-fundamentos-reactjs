@@ -48,6 +48,8 @@
 ## Rodando o projeto 
 1 - yarn start
 
+![gofinances](https://user-images.githubusercontent.com/58606794/83834844-af6ac680-a6c5-11ea-93b8-f0a1abbf0b72.gif)
+
 
 # License 
 
